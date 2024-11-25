@@ -1,0 +1,10 @@
+# ninja log v5
+13	135	7542603920520067	CMakeFiles/Ficha6.dir/CodigoTrepaColinas/funcao.c.obj	399b932a7405e55e
+40	140	7542603920560031	CMakeFiles/Ficha6.dir/CodigoTrepaColinas/utils.c.obj	db1076c9ce5c2471
+0	142	7542603920580036	CMakeFiles/Ficha6.dir/CodigoTrepaColinas/algoritmo.c.obj	a37212ca1c4fa60f
+27	167	7542603920840033	CMakeFiles/Ficha6.dir/CodigoTrepaColinas/main.c.obj	2296d1d4689a769b
+167	303	7542603922190027	Ficha6.exe	8a4842079945c94
+2	214	7542640846170417	CMakeFiles/Ficha6.dir/CodigoTrepaColinas/main.c.obj	2296d1d4689a769b
+214	476	7542640848753842	Ficha6.exe	8a4842079945c94
+1	108	7542642101714436	CMakeFiles/Ficha6.dir/CodigoTrepaColinas/main.c.obj	2296d1d4689a769b
+109	205	7542642102654396	Ficha6.exe	8a4842079945c94
