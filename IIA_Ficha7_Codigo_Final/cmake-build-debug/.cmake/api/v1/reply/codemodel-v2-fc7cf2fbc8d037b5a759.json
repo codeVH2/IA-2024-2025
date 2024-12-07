@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "IIA_Ficha7_Codigo_Final",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "IIA_Ficha7_Codigo_Final::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-IIA_Ficha7_Codigo_Final-Debug-0a62d38827332943eb26.json",
+					"name" : "IIA_Ficha7_Codigo_Final",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/User/Desktop/2 ano/IA-2024-2025/IIA_Ficha7_Codigo_Final/cmake-build-debug",
+		"source" : "C:/Users/User/Desktop/2 ano/IA-2024-2025/IIA_Ficha7_Codigo_Final"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

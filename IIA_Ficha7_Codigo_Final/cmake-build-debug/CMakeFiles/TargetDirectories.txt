@@ -1,0 +1,3 @@
+C:/Users/User/Desktop/2 ano/IA-2024-2025/IIA_Ficha7_Codigo_Final/cmake-build-debug/CMakeFiles/IIA_Ficha7_Codigo_Final.dir
+C:/Users/User/Desktop/2 ano/IA-2024-2025/IIA_Ficha7_Codigo_Final/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/User/Desktop/2 ano/IA-2024-2025/IIA_Ficha7_Codigo_Final/cmake-build-debug/CMakeFiles/rebuild_cache.dir

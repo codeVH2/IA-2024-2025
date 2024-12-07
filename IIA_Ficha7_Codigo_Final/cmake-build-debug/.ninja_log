@@ -1,0 +1,6 @@
+# ninja log v5
+8	127	7550093320074143	CMakeFiles/IIA_Ficha7_Codigo_Final.dir/main.c.obj	f169ffe012cbf643
+12	134	7550093320124013	CMakeFiles/IIA_Ficha7_Codigo_Final.dir/utils.c.obj	4a421cbe86dd1a5b
+0	139	7550093320223750	CMakeFiles/IIA_Ficha7_Codigo_Final.dir/funcao.c.obj	4e85de0b37a96f4b
+4	143	7550093320283594	CMakeFiles/IIA_Ficha7_Codigo_Final.dir/algoritmo.c.obj	5a87f074d0a2ef6f
+144	280	7550093321620065	IIA_Ficha7_Codigo_Final.exe	a1a115ec929e89c2
